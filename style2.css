@@ -1,0 +1,13 @@
+body{
+    background-color: honeydew;
+}
+
+p{
+    font-size: 72px;
+    border-left: 7px solid red;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+}
